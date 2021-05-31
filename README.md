@@ -1,0 +1,2 @@
+# SyncPlays.
+A music bot
